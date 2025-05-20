@@ -1,0 +1,14 @@
+[project]
+name = "bboxlowermask2"
+description = "Create a mask to slice the image at specific coordinates"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/jqy-yo/Comfyui-BBoxLowerMask2"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-BBoxLowerMask2"
+Icon = ""
